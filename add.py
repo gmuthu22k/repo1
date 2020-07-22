@@ -4,6 +4,7 @@ c=a+b
 d=a-b
 e=a*b
 f=a/b
+g
 print(f)
 print(e)
 print(d)
