@@ -5,6 +5,7 @@ d=a-b
 e=a*b
 f=a/b
 g=a//b
+c=a+b
 print(f)
 print(e)
 print(d)
