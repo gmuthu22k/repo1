@@ -7,6 +7,7 @@ f=a/b
 g=a//b
 c=a+b
 d=c+a
+c=a-b
 print(f)
 print(e)
 print(d)
